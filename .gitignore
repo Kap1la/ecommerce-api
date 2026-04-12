@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Docker volumes / local data
+postgres_data/
+mongo_data/
+redis_data/
+
+### .env ###
+.env
